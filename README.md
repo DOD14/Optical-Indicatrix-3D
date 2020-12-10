@@ -1,5 +1,5 @@
 # Optical-Indicatrix-3D
- A project to help visualise the optical indicatrix of a mineral and convergent light interference figures.
+ A project to help visualise the optical indicatrix of a mineral and the corresponding convergent light interference figures.
  
  ## Table of Contents
 * [General info](#general-info)
