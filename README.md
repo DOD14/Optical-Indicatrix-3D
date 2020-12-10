@@ -6,7 +6,7 @@
 * [Technologies](#technologies)
 
 ## General info
-This is a project (eventually to become a mobile app) that helps users understand and visualise the relationship between a mineral's optical indicatrix and theresulting convergent liht interference figures in thin-section.
+This is a project (eventually to become a mobile app) that helps users understand and visualise the relationship between a mineral's optical indicatrix and the resulting convergent light interference figures in thin-section.
 	
 ## Technologies
 Project is created with:
